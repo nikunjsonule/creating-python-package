@@ -25,3 +25,7 @@ Ex - from setuptools import setup, find_packages
 
 - >>     PS C:\Users\Dell\Desktop\pkg\sample_package\dist> pip install sample_package-0.2-py3-none-any.whl
 
+
+# Observation
+
+![](images/sample_package.jpg)
